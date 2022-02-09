@@ -1,0 +1,15 @@
+#ProfileTransaction {
+  background-color: #fadede;
+  border-radius: 10px;
+}
+
+.card {
+  border-radius: 10px;
+  border: none;
+}
+
+/* Profile */
+
+#MyTransaction {
+  border-radius: 10px;
+}
